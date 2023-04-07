@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Scene.unity
+    guid: c86109677f90bce4db1192ef8735eb2e
+  - enabled: 1
+    path: Assets/Scenes/Main World.unity
+    guid: ce9e07106a7c5e64ea02461a64d34d5a
+  - enabled: 1
+    path: Assets/Scenes/Quest Instances/RegQuestScene.unity
+    guid: 75cd0537ed67c234eb1db3b4b605d075
+  - enabled: 1
+    path: Assets/Scenes/Minigame1.unity
+    guid: a1034f24ef2731248854b3c4425835ec
+  - enabled: 1
+    path: Assets/Minigames for Registration Quest/GATE game/Assets/Scenes/GATE Minigame.unity
+    guid: 7a210abfb114d594b95c70c6bdf2a1bf
+  - enabled: 1
+    path: Assets/Minigames for Registration Quest/PaymentDragandDrop/Assets/Scenes/PaymentMinigame.unity
+    guid: 363014ef42332b742a69d283181b473c
+  - enabled: 1
+    path: Assets/Minigames for Registration Quest/E-Courier Game/Assets/Scenes/SampleScene.unity
+    guid: 7b900a3cc092fd644a4430cad68e2f59
+  - enabled: 1
+    path: Assets/Scenes/Quest Instances/FSTQuestScene.unity
+    guid: 91d43c3d38b6b644e8052e32e9b10d62
+  - enabled: 1
+    path: Assets/FST quest/Assemble Minigame/Assets/Scenes/SampleScene.unity
+    guid: 7c357ede447855c46a0421caddb1e3f9
+  - enabled: 1
+    path: Assets/Scenes/Quest Instances/NightQuestScene.unity
+    guid: 1353ea40f55d8c344a190d0a52dff80e
+  - enabled: 1
+    path: Assets/Scenes/Night Quest Minigames/FPS Game.unity
+    guid: 3ec16d4fc3d35794cb41027870978528
+  - enabled: 1
+    path: Assets/Scenes/Night Quest Minigames/GoFishMinigame.unity
+    guid: 10001347fdee280439faa5c45232bfa0
+  - enabled: 1
+    path: Assets/Scenes/Starry Night Scenes/AStarryNight_Telescope.unity
+    guid: 44e042468aa10944cadcd2919cfa9719
+  - enabled: 1
+    path: Assets/Scenes/Starry Night Scenes/AStarryNight_WinstonConvo.unity
+    guid: cf6b65e65dbfe7241b59cf1b8bb2d6d8
+  - enabled: 1
+    path: Assets/Scenes/Starry Night Scenes/QuizScene.unity
+    guid: 3560f727ec3b4e64a9f565c2de35b27c
+  - enabled: 1
+    path: Assets/PawballMinigame/Scenes/Pawball.unity
+    guid: 6d6994bc8173ba845b6e47a352a1f4c5
+  m_configObjects: {}
